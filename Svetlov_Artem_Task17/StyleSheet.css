@@ -1,0 +1,39 @@
+﻿body {
+    background-color:#1e1e1e
+}
+
+table {
+    background-color:grey;
+    border-style:solid;
+    border-color:black;
+    border-spacing:inherit;
+    border-width:thin;
+    width:100%;
+}
+
+header {
+    background-color:#7ac1ff;
+    border:double;
+}
+
+a {
+    text-decoration:none;
+    background-color:#090b4d;
+    font-size:x-large;
+}
+
+    a:hover {
+        background-color:#050c5f
+    }
+
+td {
+    border-style:solid;
+    border-color:black;
+    border-width:thin;
+}
+
+th {
+    border-style:solid;
+    border-color:black;
+    border-width:thin;
+}
